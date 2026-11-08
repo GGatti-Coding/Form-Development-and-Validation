@@ -12,4 +12,7 @@ export const Colors = {
   errorBackground: "#FEF2F2",
   success: "#16A34A",
   disabled: "#A5B4FC",
+  placeholder: "#94A3B8",
+  warning: "#D97706",
+  track: "#E2E8F0",
 } as const;
