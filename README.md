@@ -139,7 +139,7 @@ Example:
 | Member | GitHub | Responsibility |
 | --- | --- | --- |
 | Member 1 Guilherme Gatti | @GGatti-Coding | Project setup, navigation, home screen, GitHub repo admin, README |
-| Member 2 (name) | @JonIbarlin | Employee Information form and Zod schema |
+| Member 2 Jon Ibarlin | @JonIbarlin | Employee Information form and Zod schema |
 | Member 3 Jonah Rideout | @Agentjay2000 | Sign-Up form and Zod schema |
 | Member 4 Ahmed Yassine Messaoudi | @YassineMe435 | Sign-In form and Zod schema; shared components (`FormInput`, `FormButton`, `ScreenContainer`, `FormBanner`, `PasswordStrength`) and shared password rules |
 | Member 5 (name) | @username | Styling polish, iOS/Android testing, peer assessment and submission |
