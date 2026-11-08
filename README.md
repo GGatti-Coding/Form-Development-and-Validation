@@ -142,7 +142,7 @@ Example:
 | Member 2 Jon Ibarlin | @JonIbarlin | Employee Information form and Zod schema |
 | Member 3 Jonah Rideout | @Agentjay2000 | Sign-Up form and Zod schema |
 | Member 4 Ahmed Yassine Messaoudi | @YassineMe435 | Sign-In form and Zod schema; shared components (`FormInput`, `FormButton`, `ScreenContainer`, `FormBanner`, `PasswordStrength`) and shared password rules |
-| Member 5 (name) | @username | Styling polish, iOS/Android testing, peer assessment and submission |
+| Member 5 Simon Waites | @href-simjw | Styling polish, iOS/Android testing, peer assessment and submission |
 
 ### Git workflow
 
